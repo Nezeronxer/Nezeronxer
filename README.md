@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/neural-banner.gif" width="860" alt="Animated neural programming banner" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Toliya-max?tab=repositories">
     <img alt="GitHub repositories" src="https://img.shields.io/badge/repositories-111111?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -25,16 +29,26 @@
 
 ## About Me
 
-I go by **Nezeronxer** online and build practical systems for networking, automation, desktop tools, and security-minded workflows.
+My name is **Tolya**. I am **18 years old**, based in **Russia**, and online I go by **Nezeronxer**.
 
-- Based in **Russia**.
+I am interested in **neuroprogramming**: using neural networks as a real programming partner for thinking through systems, building tools, debugging workflows, and turning rough ideas into working software. I started working with neural networks in **2020**, and since then they have become part of how I learn, experiment, and build.
+
+- I like practical projects: automation, desktop tools, bots, networking utilities, and local AI workflows.
 - Discord: **nezeronxer**.
 - YouTube: [@nezeron666](https://www.youtube.com/@nezeron666).
-- I like tools that feel calm to use, but stay reliable when the real world gets messy.
+- I prefer tools that are easy to operate, easy to verify, and useful outside of a demo.
+
+## My Story
+
+I got into neural networks early, around **2020**, when AI tools still felt experimental and strange. Over time, that curiosity turned into a working style: I use models to explore ideas, write code faster, test assumptions, document projects, and build systems that would be painful to shape manually.
+
+For me, neuroprogramming is not about pretending AI does everything. It is about combining human direction with machine assistance: I decide what should exist, then use neural networks to accelerate the path from idea to result.
+
+Most of my work is practical rather than decorative. I like making small systems that solve real friction: Telegram automation, desktop workflows, local tools, knowledge systems, and utilities that make technical work less chaotic.
 
 ## What I Build
 
-I work on tools that sit close to real operations: network infrastructure, Telegram automation, Windows desktop utilities, local AI workflows, and security-focused repair work.
+I work on tools that sit close to real operations: Telegram automation, Windows desktop utilities, local AI workflows, project memory systems, and security-minded repair work.
 
 My favorite kind of project is calm on the surface and stubborn under load: clear controls, practical diagnostics, small blast radius, and proof that the thing actually works.
 
@@ -42,6 +56,7 @@ My favorite kind of project is calm on the surface and stubborn under load: clea
 
 | Area | What it means |
 | --- | --- |
+| Neuroprogramming | AI-assisted programming, prompt-shaped workflows, local experiments, and practical model-assisted development. |
 | Networking tools | VPN-oriented utilities, routing UX, subscription handling, health checks, and admin surfaces. |
 | Telegram automation | Bots, owner panels, key/proxy workflows, content pipelines, and low-friction controls. |
 | Desktop utilities | Windows-first apps, hotkeys, overlays, packaged builds, and local workflow automation. |
@@ -52,7 +67,6 @@ My favorite kind of project is calm on the surface and stubborn under load: clea
 
 | Project direction | Short version |
 | --- | --- |
-| **ZapretKVN-style desktop networking** | Windows client work around protocol subscriptions, health checks, runtime safety, and user-facing controls. |
 | **VPN key and proxy automation** | Telegram-first workflows for delivering and managing access with cleaner owner controls. |
 | **VoxFlow-style desktop dictation** | Local speech-to-text workflow with desktop UX, hotkeys, packaged launch, and recognition diagnostics. |
 | **Lichess tooling and site work** | Product polish, checkout/security boundaries, installer trust, and distribution workflow repair. |
