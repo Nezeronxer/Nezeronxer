@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/avatar-animated.gif" width="170" alt="Toliya-max animated avatar" />
+  <img src="assets/avatar-animated.gif" width="170" alt="Nezeronxer animated avatar" />
 </p>
 
-<h1 align="center">Toliya-max</h1>
+<h1 align="center">Nezeronxer</h1>
 
 <p align="center">
   Nezeronxer · Practical systems builder based in Russia.
@@ -92,6 +92,6 @@ My favorite kind of project is calm on the surface and stubborn under load: clea
 
 The best place to reach me is through GitHub or Discord.
 
-- GitHub: [Toliya-max](https://github.com/Toliya-max)
+- GitHub: [Nezeronxer](https://github.com/Toliya-max)
 - Discord: **nezeronxer**
 - YouTube: [@nezeron666](https://www.youtube.com/@nezeron666)
